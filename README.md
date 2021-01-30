@@ -2,13 +2,13 @@
 My name is Flammable Duck. Github lets me put my garbage on their website for some reason.
 
 <details>
-  <summary> Contacts <summary>
+  <summary> Contacts </summary>
   
     Discord: #Flammable Duck#9577
     Email: flammableduck@protonmail.com
     Matrix: @flammableduck:matrix.org
   
-<details>
+</details>
 
 Pronouns: She/Her
 ![](https://komarev.com/ghpvc/?username=Flammable-Duck&color=blueviolet&style=flat-square&label=FRIENDS-WHO'VE-STOPPED-BY)
