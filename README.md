@@ -2,11 +2,11 @@
 My name is Flammable Duck. Github lets me put my garbage on their website for some reason.
 
 <details>
-<summary> Contacts <summary>
+  <summary> Contacts <summary>
   
-  Discord: #Flammable Duck#9577
-  Email: flammableduck@protonmail.com
-  Matrix: @flammableduck:matrix.org
+    Discord: #Flammable Duck#9577
+    Email: flammableduck@protonmail.com
+    Matrix: @flammableduck:matrix.org
   
 <details>
 
