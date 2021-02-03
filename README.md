@@ -13,6 +13,8 @@ My name is Flammable Duck. Github lets me put my garbage on their website for so
 Pronouns: She/Her
 
 ![](https://komarev.com/ghpvc/?username=Flammable-Duck&color=blueviolet&style=flat-square&label=FRIENDS-WHO'VE-STOPPED-BY)
+
+![Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flammable-Duck&show_icons=true&theme=dracula)
 <!--
 **Flammable-Duck/Flammable-Duck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
