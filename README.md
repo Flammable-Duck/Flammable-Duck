@@ -17,7 +17,7 @@ Pronouns: She/Her
 
 
 
-![](https://komarev.com/ghpvc/?username=Flammable-Duck&color=blueviolet&style=flat-square&label=Page Hits)
+![](https://komarev.com/ghpvc/?username=Flammable-Duck&color=blueviolet&style=flat-square&label=Page_Hits)
 <!--
 **Flammable-Duck/Flammable-Duck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
