@@ -10,7 +10,7 @@ My name is Flammable Duck. Github lets me put my garbage on their website for so
   
 </details>
 
-<-- Pronouns: She/Her -->
+<!-- Pronouns: She/Her --!>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flammable-Duck&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flammable-Duck&show_icons=true&theme=dracula)
