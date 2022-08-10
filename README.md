@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Flammable Duck. Github lets me put my garbage on their website for some reason.
+Github lets me put my garbage on their website for some reason.
 
 <details>
   <summary> Contacts </summary>
