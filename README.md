@@ -1,4 +1,3 @@
-### Hi there 👋
 Github lets me put my garbage on their website for some reason.
 
 <details>
