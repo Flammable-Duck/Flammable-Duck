@@ -3,7 +3,7 @@ Github lets me put my garbage on their website for some reason.
 <details>
   <summary> Contacts </summary>
   
-    Discord: #Flammable Duck#9577
+    Discord: Flammable Duck#9577
     Email: flammableduck@protonmail.com
     Matrix: @flammableduck:matrix.org
   
